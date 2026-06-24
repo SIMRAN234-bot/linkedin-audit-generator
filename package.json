@@ -1,0 +1,30 @@
+{
+  "name": "linkedin-growth-audit",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "framer-motion": "latest",
+    "html2canvas": "latest",
+    "jspdf": "latest",
+    "lucide-react": "latest",
+    "next": "latest",
+    "pdfjs-dist": "^5.4.394",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "^3.4.17"
+  }
+}
